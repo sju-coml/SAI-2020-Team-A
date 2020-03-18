@@ -6,6 +6,8 @@
   - Kaggle / Dacon 등 대회 참여 
   - 프로젝트
   - 공부한 모든 것들은 그룹 폴더에 업로드
+  
+ 
 * 매주 그룹 미팅 1회
   - 각자 1주일간 공부한 것을 **매우매우매우 자세하게** 설명
   - 설명에 대한 질문과 답변
@@ -13,10 +15,16 @@
   딱딱한 분위기 말고, 수다떨듯이 편하게 이야기하는 것을 선호해요 ㅎㅎ
   ```
   - 그룹장은 모임에 관한 내용을 [그룹명]/readme.md에 작성
- 
   
 * 전체 모임
   - A팀 발표날에 각 그룹 당 1명씩 그룹 공부내용 발표
+  
+  
+## Tip for selecting code!
+
+1. python 으로 작성된 코드
+2. Hotness / comments / Votes 순으로 정렬하여 많은 사람이관심을 가진 코드
+3. beginner 태그가 붙은 코드
 
 
 ## Curriculum
@@ -34,6 +42,7 @@
 
 * [Kaggle](https://velog.io/@skyepodium/%EC%BA%90%EA%B8%80-%EC%82%AC%EC%9A%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 * [MarkDown(.md)](https://heropy.blog/2017/09/30/markdown/)
+* [Jupyter notebook](https://hogni.tistory.com/29)
 
 ## Comment
 안녕하세요, 임수현입니다. 이렇게 만날 수 있게 되어서 정말 반가워요 :-)  
